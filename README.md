@@ -11,12 +11,12 @@ Batch : B
 
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
 |:---------|:---------------|:------------------------------------------------|
-|1.|Write a C program to check if a given number is Fibonacci number.||
-|2.|Write a C program to generate Pascal Triangle using array.||
-|3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.||
-|4.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of roll list.||
-|5.|Write a C program to find largest element in an array ||
-|6.|Write a menu driven program to perform the following operations in an ARRAY 1. INSERT2. DELETE 3. TRAVERSE 4. SEARCH ||
+|1.|Write a C program to check if a given number is Fibonacci number.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/fibo%20no.c|
+|2.|Write a C program to generate Pascal Triangle using array.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/pascal%20tri.c|
+|3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/asc%20order.c|
+|4.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of roll list.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/desc%20order.c|
+|5.|Write a C program to find largest element in an array |https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/largest%20ele.c|
+|6.|Write a menu driven program to perform the following operations in an ARRAY 1. INSERT2. DELETE 3. TRAVERSE 4. SEARCH |https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/Prog5.c|
 |7.|Define a structure data type called time_struct containing 3 members int hour, int||
 ||minute and int second. Write functions that accept the structure to perform the|
 ||following operations:||
@@ -26,8 +26,8 @@ Batch : B
 ||time by one second.(If the increment results in 60 seconds, the then second member is||
 ||set to 0 and the minute is incremented by 1. Then, if the result is 60 minutes, the minute||
 ||member is set to 0 and the hour member is incremented by 1. Finally when the hour||
-||becomes 24, it is set to zero.)||
-|8.|Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise.||
+||becomes 24, it is set to zero.)|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/Prog3.c|
+|8.|Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/Prog4.c|
 
 
 ## DSA program list B :-
