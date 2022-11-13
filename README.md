@@ -144,7 +144,7 @@ Batch : B
 |18.|Write a program to implement Binary Search||
 |19.|Write a program to implement Bubble sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/bubble_sort.c|
 |20.|Write a program to implement Selection sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/selection_sort.c|
-|21.|Write a program to implement Insertion sort||
+|21.|Write a program to implement Insertion sort|https://github.com/srujana2310/DSA-/blob/e95cc218658737176c4e23794d933ff493915422/insertionSort.c|
 |22.|Write a program to implement Quick sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/quicksort.c|
 |23.|Write a program to implement Merge sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/mergeSort.c|
 
