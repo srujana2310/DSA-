@@ -11,7 +11,7 @@ Batch : B
 
 |Program_Id| Program details  |Your File nameHyperlink to the .c file on github|
 |:---------|:---------------|:------------------------------------------------|
-|1.|Write a C program to check if a given number is Fibonacci number.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/fibo%20no.c|
+|1.|Write a C program to check if a given number is Fibonacci number.|[code](https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/fibo%20no.c)|
 |2.|Write a C program to generate Pascal Triangle using array.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/pascal%20tri.c|
 |3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/asc%20order.c|
 |4.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of roll list.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/desc%20order.c|
