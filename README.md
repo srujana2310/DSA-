@@ -96,7 +96,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|5.|Write a menu driven program to implement STACK ADT using array and perform the||
+|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/srujana2310/DSA-/blob/46a38c293b5ffebf8a93e81d695a7a8665c9d1de/stack.c|
 ||following operations||
 ||1. PUSH||
 ||2. POP||
@@ -124,7 +124,7 @@ Batch : B
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. SEARCH||
-|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and||
+|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/srujana2310/DSA-/blob/46a38c293b5ffebf8a93e81d695a7a8665c9d1de/queue.c|
 ||perform the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
