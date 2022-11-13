@@ -2,7 +2,7 @@
 
 Name : Srujana Makarande
 
-Roll no : 33
+Roll no : 32
 
 Batch : B
 
