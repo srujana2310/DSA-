@@ -33,7 +33,7 @@ Batch : B
 ## DSA program list B :-
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
 |----------|----------------|-------------------------------------------------|
-|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and||
+|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/LinkedListImplementation.c|
 ||perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -48,7 +48,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|2.|Write a menu driven program to implement list ADT using CIRCULAR LINKEDLIST||
+|2.|Write a menu driven program to implement list ADT using CIRCULAR LINKEDLIST|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/Circular_LinkedList.c|
 ||and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -64,7 +64,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|3.|Write a menu driven program to implement list ADT using DOUBLE LINKEDLIST||
+|3.|Write a menu driven program to implement list ADT using DOUBLE LINKEDLIST|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/double_LinkedList.c|
 ||and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -80,7 +80,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|4.|Write a menu driven program to implement list ADT using CIRCULAR DOUBLE||
+|4.|Write a menu driven program to implement list ADT using CIRCULAR DOUBLE|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/Circular_double_LinkedList.c|
 ||LINKEDLIST and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -102,29 +102,29 @@ Batch : B
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform||
+|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/StackImplementationUsingLinkedList.c|
 ||the following operations||
 ||1. PUSH||
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|7.|Write a program to REVERSE a given string using a Stack||
-|8.|Write a program to check if a given number is a PALLINDROME using a stack||
-|9.|Write a program to implement PARENTHESES CHECKER using a stack ||
-|10.|Write a program for conversion of INFIX to POSTFIX expression.||
-|11.|Write a program to evaluate postfix expressions by making use of Stack||
-|12.|Write a menu driven program to implement QUEUE ADT using array and perform the||
+|7.|Write a program to REVERSE a given string using a Stack|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/ReverseLinkList.c|
+|8.|Write a program to check if a given number is a PALLINDROME using a stack|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/checking_palindrome_using_stack.c|
+|9.|Write a program to implement PARENTHESES CHECKER using a stack |https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/ParanthesisChecker.c|
+|10.|Write a program for conversion of INFIX to POSTFIX expression.|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/infix_to_postfix.c|
+|11.|Write a program to evaluate postfix expressions by making use of Stack|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/postfix.c|
+|12.|Write a menu driven program to implement QUEUE ADT using array and perform the|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/queue.c|
 ||following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
-|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and perform||
+|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and perform|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/QueueImplementationUsingLinkedList.c|
 ||the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. SEARCH||
-|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/srujana2310/DSA-/blob/46a38c293b5ffebf8a93e81d695a7a8665c9d1de/queue.c|
+|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/srujana2310/DSA-/blob/94a3c43aa343cb119f41a31334fbe52c120a61a9/CircularQueue.c|
 ||perform the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
