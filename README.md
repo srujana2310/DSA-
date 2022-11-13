@@ -130,7 +130,7 @@ Batch : B
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. COUNT||
-|15.|Write a menu driven program to implement following operations in a binary search tree||
+|15.|Write a menu driven program to implement following operations in a binary search tree|https://github.com/srujana2310/DSA-/blob/9eae03103ec41ddaf91783504825c0619f1b66af/BSTree.c|
 ||(BST).||
 ||1. Insertion of node||
 ||2. Deletion of node||
@@ -139,8 +139,8 @@ Batch : B
 ||5. Postorder Traversal||
 ||6. Inorder Traversal||
 ||7. Search node in the tree||
-|16.|Write a program to implement traversal of a directed graph through BFS||
-|17.|Write a program to implement traversal of a directed graph through DFS||
+|16.|Write a program to implement traversal of a directed graph through BFS|https://github.com/srujana2310/DSA-/blob/9eae03103ec41ddaf91783504825c0619f1b66af/bfs.c|
+|17.|Write a program to implement traversal of a directed graph through DFS|https://github.com/srujana2310/DSA-/blob/9eae03103ec41ddaf91783504825c0619f1b66af/dfs.c|
 |18.|Write a program to implement Binary Search||
 |19.|Write a program to implement Bubble sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/bubble_sort.c|
 |20.|Write a program to implement Selection sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/selection_sort.c|
