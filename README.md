@@ -142,10 +142,10 @@ Batch : B
 |16.|Write a program to implement traversal of a directed graph through BFS||
 |17.|Write a program to implement traversal of a directed graph through DFS||
 |18.|Write a program to implement Binary Search||
-|19.|Write a program to implement Bubble sort||
-|20.|Write a program to implement Selection sort||
+|19.|Write a program to implement Bubble sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/bubble_sort.c|
+|20.|Write a program to implement Selection sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/selection_sort.c|
 |21.|Write a program to implement Insertion sort||
-|22.|Write a program to implement Quick sort||
-|23.|Write a program to implement Merge sort||
+|22.|Write a program to implement Quick sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/quicksort.c|
+|23.|Write a program to implement Merge sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/mergeSort.c|
 
 
