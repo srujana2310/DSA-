@@ -13,7 +13,7 @@ void main ()
 
 while(1)
 {
-printf("\n----Arrya Operation---");
+printf("\n----Array Operation---");
 printf("\n1. INSERT an element into the Array");
 printf("\n2. DELETE an element from the Array");
 printf("\n3. TRAVERSE the Array elements");
