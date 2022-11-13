@@ -141,7 +141,7 @@ Batch : B
 ||7. Search node in the tree||
 |16.|Write a program to implement traversal of a directed graph through BFS|https://github.com/srujana2310/DSA-/blob/9eae03103ec41ddaf91783504825c0619f1b66af/bfs.c|
 |17.|Write a program to implement traversal of a directed graph through DFS|https://github.com/srujana2310/DSA-/blob/9eae03103ec41ddaf91783504825c0619f1b66af/dfs.c|
-|18.|Write a program to implement Binary Search||
+|18.|Write a program to implement Binary Search|https://github.com/srujana2310/DSA-/blob/e5354424dac0cc73021302088d3452ef0a7fbd5a/binarySearch.c|
 |19.|Write a program to implement Bubble sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/bubble_sort.c|
 |20.|Write a program to implement Selection sort|https://github.com/srujana2310/DSA-/blob/3d22185d49f74965eb084ea7506a8ed037514f7c/selection_sort.c|
 |21.|Write a program to implement Insertion sort|https://github.com/srujana2310/DSA-/blob/e95cc218658737176c4e23794d933ff493915422/insertionSort.c|
