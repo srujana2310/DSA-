@@ -33,7 +33,7 @@ Batch : B
 ## DSA program list B :-
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
 |----------|----------------|-------------------------------------------------|
-|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and|https://github.com/rohan0110/DSA/blob/main/LinkedListImplementation.c|
+|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and||
 ||perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -48,7 +48,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|2.|Write a menu driven program to implement list ADT using CIRCULAR LINKEDLIST|https://github.com/rohan0110/DSA/blob/main/Circular_LinkedList.c|
+|2.|Write a menu driven program to implement list ADT using CIRCULAR LINKEDLIST||
 ||and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -64,7 +64,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|3.|Write a menu driven program to implement list ADT using DOUBLE LINKEDLIST|https://github.com/rohan0110/DSA/blob/main/double_LinkedList.c|
+|3.|Write a menu driven program to implement list ADT using DOUBLE LINKEDLIST||
 ||and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -80,7 +80,7 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|4.|Write a menu driven program to implement list ADT using CIRCULAR DOUBLE|https://github.com/rohan0110/DSA/blob/main/Circular_double_LinkedList.c|
+|4.|Write a menu driven program to implement list ADT using CIRCULAR DOUBLE||
 ||LINKEDLIST and perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -96,41 +96,41 @@ Batch : B
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/rohan0110/DSA/blob/main/StackArr.c|
+|5.|Write a menu driven program to implement STACK ADT using array and perform the||
 ||following operations||
 ||1. PUSH||
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform|https://github.com/rohan0110/DSA/blob/main/StackImplementationUsingLinkedList.c|
+|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform||
 ||the following operations||
 ||1. PUSH||
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|7.|Write a program to REVERSE a given string using a Stack|https://github.com/rohan0110/DSA/blob/main/ReverseLinkList.c|
-|8.|Write a program to check if a given number is a PALLINDROME using a stack|https://github.com/rohan0110/DSA/blob/main/checking_palindrome_using_stack.c|
-|9.|Write a program to implement PARENTHESES CHECKER using a stack |https://github.com/rohan0110/DSA/blob/main/ParanthesisChecker.c|
-|10.|Write a program for conversion of INFIX to POSTFIX expression.|https://github.com/rohan0110/DSA/blob/main/infix_to_postfix.c|
-|11.|Write a program to evaluate postfix expressions by making use of Stack|https://github.com/rohan0110/DSA/blob/main/postfix.c|
-|12.|Write a menu driven program to implement QUEUE ADT using array and perform the|https://github.com/rohan0110/DSA/blob/main/QueueUsingArray.c|
+|7.|Write a program to REVERSE a given string using a Stack||
+|8.|Write a program to check if a given number is a PALLINDROME using a stack||
+|9.|Write a program to implement PARENTHESES CHECKER using a stack ||
+|10.|Write a program for conversion of INFIX to POSTFIX expression.||
+|11.|Write a program to evaluate postfix expressions by making use of Stack||
+|12.|Write a menu driven program to implement QUEUE ADT using array and perform the||
 ||following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
-|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and perform|https://github.com/rohan0110/DSA/blob/main/QueueImplementationUsingLinkedList.c|
+|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and perform||
 ||the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. SEARCH||
-|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/rohan0110/DSA/blob/main/CircularQueue.c|
+|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and||
 ||perform the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. COUNT||
-|15.|Write a menu driven program to implement following operations in a binary search tree|https://github.com/rohan0110/DSA/blob/main/BSTree.c|
+|15.|Write a menu driven program to implement following operations in a binary search tree||
 ||(BST).||
 ||1. Insertion of node||
 ||2. Deletion of node||
@@ -139,13 +139,13 @@ Batch : B
 ||5. Postorder Traversal||
 ||6. Inorder Traversal||
 ||7. Search node in the tree||
-|16.|Write a program to implement traversal of a directed graph through BFS|https://github.com/rohan0110/DSA/blob/main/bfs.c|
-|17.|Write a program to implement traversal of a directed graph through DFS|https://github.com/rohan0110/DSA/blob/main/dfs.c|
-|18.|Write a program to implement Binary Search|https://github.com/rohan0110/DSA/blob/main/binarySearch.c|
-|19.|Write a program to implement Bubble sort|https://github.com/rohan0110/DSA/blob/main/bubble_sort.c|
-|20.|Write a program to implement Selection sort|https://github.com/rohan0110/DSA/blob/main/selection_sort.c|
-|21.|Write a program to implement Insertion sort|https://github.com/rohan0110/DSA/blob/main/insertionSort.c|
-|22.|Write a program to implement Quick sort|https://github.com/rohan0110/DSA/blob/main/quicksort.c|
-|23.|Write a program to implement Merge sort|https://github.com/rohan0110/DSA/blob/main/mergeSort.c|
+|16.|Write a program to implement traversal of a directed graph through BFS||
+|17.|Write a program to implement traversal of a directed graph through DFS||
+|18.|Write a program to implement Binary Search||
+|19.|Write a program to implement Bubble sort||
+|20.|Write a program to implement Selection sort||
+|21.|Write a program to implement Insertion sort||
+|22.|Write a program to implement Quick sort||
+|23.|Write a program to implement Merge sort||
 
 
