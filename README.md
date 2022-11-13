@@ -93,7 +93,7 @@ Batch : B
 ||9. SEARCH||
 ||10. COUNT||
 ||11. COPY||
-||12. CONCATENTE||
+||12. CONCATENATE||
 ||13. SPLIT||
 ||14. REVERSE||
 |5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/srujana2310/DSA-/blob/46a38c293b5ffebf8a93e81d695a7a8665c9d1de/stack.c|
