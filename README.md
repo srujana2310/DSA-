@@ -9,7 +9,7 @@ Batch : B
 
 ## DSA experiment list A  : - 
 
-|Program_Id| Program details|Your File nameHyperlink to the .c file on github|
+|Program_Id| Program details  |Your File nameHyperlink to the .c file on github|
 |:---------|:---------------|:------------------------------------------------|
 |1.|Write a C program to check if a given number is Fibonacci number.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/fibo%20no.c|
 |2.|Write a C program to generate Pascal Triangle using array.|https://github.com/srujana2310/DSA-/blob/4df10b7347046d014bd884662ff0d57333fa9702/pascal%20tri.c|
