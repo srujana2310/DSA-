@@ -14,10 +14,10 @@ void main ()
 while(1)
 {
 printf("\n----Arrya Operation---");
-printf("\n1. INSERT an element into the Arrya");
-printf("\n2. DELETE an element from the Arrya");
-printf("\n3. TRAVERSE the Arrya elements");
-printf("\n4. SEARCH Arrya element");
+printf("\n1. INSERT an element into the Array");
+printf("\n2. DELETE an element from the Array");
+printf("\n3. TRAVERSE the Array elements");
+printf("\n4. SEARCH Array element");
 printf("\n5. EXIT");
 
 printf("\n Enter your choice:");
@@ -25,7 +25,7 @@ scanf("%d",&ch);
 
 switch(ch)
 {
-	case 1: printf("\n Enter the element to be 		insterted into the Arrya:");
+	case 1: printf("\n Enter the element to be insterted into the Array:");
 			scanf("%d",&num1);
 			insert(num1);
 			break;
