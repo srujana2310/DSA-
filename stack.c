@@ -69,5 +69,5 @@ void Push()
 void pop()
 
 {	
-	
+	Top--;
 }
